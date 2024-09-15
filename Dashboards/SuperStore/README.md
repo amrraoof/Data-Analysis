@@ -1,4 +1,4 @@
-# Analysis made to evaluate the performance of the british airways using Tableau and power BI
+# Analysis made to evaluate the performance of one of the biggest superstores using Tableau and power BI
 ## Data Model: 
 ![superstore Modeling](https://github.com/user-attachments/assets/c926e448-a6c1-4fea-820a-ce2704147840)
 ## PowerBI Dashboard:
